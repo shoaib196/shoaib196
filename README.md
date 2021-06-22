@@ -2,7 +2,7 @@
 - 👀 I’m interested in leaning new teccnologies.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on innovative ideas
-- 📫 How to reach me -shoaibsalamat152@gmail.com
+- 📫 How to reach me shoaibsalamat152@gmail.com
 -  skpye -  shoaib2480
 
 <!---
