@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shoaib196
 - 👀 I’m interested in leaning new teccnologies.
-- 🌱 I’m currently learning swiftUI.
 - 💞️ I’m looking to collaborate on innovative ideas
 - 📫 How to reach me shoaibsalamat152@gmail.com
 -  skpye -  shoaib2480
